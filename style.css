@@ -95,7 +95,8 @@ a {
 .container1 {
   display: flex;
   justify-content: center;
-  gap: 180px;
+  gap: 150px;
+  margin-right: 124px;
 }
 
 .hg {
@@ -148,11 +149,10 @@ a {
     align-content: center;
     width: 500px;
     margin: 100px;
-    margin-left: 550px;
+    margin-left: 430px;
     border: 1px ;
     padding: 35px;
     color: #f9faf8;
-    gap: 32px;
 }
 
 .hj {
